@@ -1,3 +1,4 @@
+// using dataset from https://www.kaggle.com/c/fake-news/data?select=train.csv
 //id: unique id for a news article
 //title: the title of a news article
 //author: author of the news article
